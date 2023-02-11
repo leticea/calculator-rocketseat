@@ -28,3 +28,17 @@ body {
 
   border-radius: 48px;
 }
+
+#display {
+  margin-top: 54px;
+  padding-inline: 54px;
+}
+
+#last-calc {
+  text-align: right;
+}
+
+#result {
+  display: flex;
+  justify-content: space-between;
+}

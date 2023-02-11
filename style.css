@@ -55,6 +55,20 @@ body * {
 #result span {
   font-size: 36px;
   line-height: 140%;
+  color: #EBEBEB;
+}
+
+#keyboard {
+  margin-top: 26px;
+  margin-inline: 32px;
+  //padding-bottom: 32px;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+  width: 64px;
+  height: 64px;
 }
 
 

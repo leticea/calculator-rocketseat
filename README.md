@@ -46,6 +46,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>18/01/23</td>
       <td><a href="https://github.com/leticea/product-card">🔗</a></td>
     </tr>
+    <tr>
+      <td>03</td>
+      <td>Calculator</td>
+      <td>08/02/23</td>
+      <td><a href="https://github.com/leticea/calculator-rocketseat">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
